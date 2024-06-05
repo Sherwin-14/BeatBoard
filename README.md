@@ -1,6 +1,7 @@
 # Spotify Analysis
 
 ## Introduction
+![screenshot](dashboard_real.png)
 
 The Spotify 2023 dataset is a rich dataset that provides detailed information about songs, artists, and user preferences. It's an excellent resource for data analysis and visualization, offering insights into music trends and listener behavior.
 
